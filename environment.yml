@@ -34,3 +34,4 @@ dependencies:
     - fvcore
     - iopath
     - pytorch_lightning==2.2.1
+    - pandas==2.2.2
